@@ -8,3 +8,4 @@ global.measuredExecutionTime = function(fn) {
     return result;
   };
 };
+
